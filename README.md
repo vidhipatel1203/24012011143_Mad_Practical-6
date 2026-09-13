@@ -39,8 +39,8 @@ Create an Android Application to demonstrate **Frame by Frame Animation** and a 
 
 <table>
   <tr>
-    <td><img src="sreenshots/p6_1.png" width="300"/></td>
-    <td><img src="sreenshots/p6_2.png" width="300"/></td>
+    <td><img src="screenshots/p6_1.png" width="300"/></td>
+    <td><img src="screenshots/p6_2.png" width="300"/></td>
   </tr>
 </table>
 
@@ -48,8 +48,8 @@ Create an Android Application to demonstrate **Frame by Frame Animation** and a 
 
 <table>
   <tr>
-    <td><img src="sreenshots/p6_3.png" width="300"/></td>
-    <td><img src="sreenshots/p6_4.png" width="300"/></td>
+    <td><img src="screenshots/p6_3.png" width="300"/></td>
+    <td><img src="screenshots/p6_4.png" width="300"/></td>
   </tr>
 </table>
 
